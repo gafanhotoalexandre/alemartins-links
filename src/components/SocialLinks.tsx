@@ -14,7 +14,7 @@ export function SocialLinks() {
         <LinkedinLogo size={32} />
       </SocialLinkItem>
 
-      <SocialLinkItem href="#">
+      <SocialLinkItem href="https://www.instagram.com/alexandrev.martins20/">
         <InstagramLogo size={32} />
       </SocialLinkItem>
     </section>

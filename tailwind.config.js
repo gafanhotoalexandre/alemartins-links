@@ -13,6 +13,8 @@ module.exports = {
         mobile: "url('/assets/bg-mobile.jpg')",
         'desktop-light': "url('/assets/bg-desktop-light.jpg')",
         'mobile-light': "url('/assets/bg-mobile-light.jpg')",
+        'moon-stars': "url('/assets/moon-stars.svg')",
+        sun: "url('/assets/sun.svg')",
         // 'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         // 'gradient-conic':
         //   'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
